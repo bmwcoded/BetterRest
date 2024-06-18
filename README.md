@@ -10,6 +10,6 @@ BetterRest is a SwiftUI app designed to help you determine your ideal bedtime ba
 
 Resources:
 This app was created using the following resources:
-[Hacking with Swift: SwiftUI #16](https://www.hackingwithswift.com/100/swiftui/26)
-[Hacking with Swift: SwiftUI #17](https://www.hackingwithswift.com/100/swiftui/27)
-[Hacking with Swift: SwiftUI #19](https://www.hackingwithswift.com/100/swiftui/28)
+[Hacking with Swift: SwiftUI Day 26](https://www.hackingwithswift.com/100/swiftui/26)
+[Hacking with Swift: SwiftUI Day 27](https://www.hackingwithswift.com/100/swiftui/27)
+[Hacking with Swift: SwiftUI Day #28](https://www.hackingwithswift.com/100/swiftui/28)
